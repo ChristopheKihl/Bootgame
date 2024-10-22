@@ -10,10 +10,21 @@ body {
     background-color: #129612 !important;
 }
 
+.bg-secondary {
+    background-color: #3e444a;
+}
+
+.bg-dark {
+    background-color: #343a40;
+}
 
 .bg-light {
     background-color: #e6dede !important;
 }
+
+/* .border-dark-subtle {
+    background-color: #424951;
+} */
 
 .h1,
 .h2,
